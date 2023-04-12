@@ -1,3 +1,7 @@
+# Documentation
+# Name : Yohjit Chopra
+# Roll No. 2110994798
+
 import socket
 
 host = 'localhost'  # Define the host as localhost
